@@ -66,6 +66,11 @@ body {
     margin-bottom: 20px;
 }
 
+.contents .photo {
+    width: 1000px;
+    margin-bottom: 30px;
+}
+
 .item {
     display: flex;
     margin-bottom: 30px;
